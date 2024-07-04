@@ -1,3 +1,5 @@
+![logo](https://github.com/Zain-Hamid-Khan/Zain-Hamid-Khan/blob/main/github%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Zain Khan</h1>
 <h3 align="center">A proactive Software Engineering student actively honing my skills in frontend development and modern web technologies</h3>
 
