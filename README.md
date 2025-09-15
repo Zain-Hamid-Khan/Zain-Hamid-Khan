@@ -1,14 +1,14 @@
 ![logo](https://github.com/Zain-Hamid-Khan/Zain-Hamid-Khan/blob/main/github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Zain Khan</h1>
-<h3 align="center">A proactive Software Engineering student actively honing my skills in frontend development and modern web technologies</h3>
+<h3 align="center">A proactive Software Engineer actively honing my skills in Full Stack Enterprise level development and modern web technologies</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Zain-Hamid-Khan/Zain-Hamid-Khan/raw/0a9cfcc7c4277ef160d3d48f807d1255b24f147d/coding.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-hamid-khan&label=Profile%20views&color=0e75b6&style=flat" alt="zain-hamid-khan" /> </p>
 
-- 🌱 I’m currently learning **React.js | Redux | Front-End Development**
+- 🌱 I’m currently Working with **Agngular | .NET | Software Engeering**
 
 - 💬 Ask me about **Object Oriented Programming | Software Development Models | SRS | Testing**
 
